@@ -1,0 +1,23 @@
+{
+  "name": "refactoring-javascript",
+  "version": "1.0.0",
+  "description": "Refactoring Javascript - Turning bad code into good code workthrough",
+  "main": "check-hand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdelmageed/refactoring-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdelmageed/refactoring-javascript/issues"
+  },
+  "homepage": "https://github.com/Abdelmageed/refactoring-javascript#readme",
+  "dependencies": {
+    "wish": "^1.0.0"
+  }
+}
